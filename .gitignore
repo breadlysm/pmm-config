@@ -1,0 +1,5 @@
+config.yml
+logs/*
+overlays/*
+UUID
+config.cache
